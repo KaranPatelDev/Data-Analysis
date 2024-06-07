@@ -19,7 +19,23 @@ The LokSabha Election of 2024 was a significant event in India's political lands
    ```
    pip install -r requirements.txt
    ```
-3. Requirements are given in file Requirements.txt
+Here are the steps:
+
+1. Open your terminal.
+2. If you have Python installed on your system, you should also have pip. You can check if pip is installed by typing the following command in your terminal:
+```markdown
+pip --version
+```
+3. If pip is installed, this command will display the version of pip installed on your system.
+4. To install pandas, matplotlib, and seaborn, type the following commands in your terminal:
+```markdown
+pip install pandas
+pip install matplotlib
+pip install seaborn
+```
+
+Each command will download and install these libraries.
+Remember, if you’re using a system that has both Python 2 and Python 3, you might need to use pip3 instead of pip.
 
 ## Demo 🎥
 A demo video of the project is available below. This video provides a walkthrough of the data analysis process and the insights derived from the data.
