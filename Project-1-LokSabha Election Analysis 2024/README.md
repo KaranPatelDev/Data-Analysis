@@ -16,9 +16,7 @@ The LokSabha Election of 2024 was a significant event in India's political lands
 ## Installation 💻
 1. Clone this repository.
 2. Install the required packages using pip:
-   ```
-   pip install -r requirements.txt
-   ```
+
 Here are the steps:
 
 1. Open your terminal.
