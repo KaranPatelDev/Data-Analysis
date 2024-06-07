@@ -1,0 +1,9 @@
+pandas
+matplotlib
+seaborn
+
+To install pandas, matplotlib, and seaborn, type the following commands in your terminal:
+[pip install pandas
+pip install matplotlib
+pip install seaborn
+]
