@@ -43,7 +43,7 @@ Go to your forked repository.
 Click on the “Code” button, then copy the HTTPS URL.
 Open your terminal, navigate to the directory where you want to clone the repository, and run:
 ```markdown
-git clone <paste-copied-url>
+git clone https://github.com/karanop001018/Data-Analysis.git
 ```
 Step 3: Create a New Branch
 
