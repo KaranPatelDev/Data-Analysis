@@ -1,4 +1,4 @@
-# 📊 Data Analysis Repository
+# 📊📈 Data Analysis Repository
 
 Welcome to my Data Analysis repository! This is a collection of various data analysis projects that I've worked on. Each project is self-contained and includes the data, scripts, and results of the analysis.
 
